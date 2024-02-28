@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello!
+## About Me
+I am Jhonatan, I am trying to learn some programming languages. I am currently studying Computer Science.
+
+## Projects
+I have 3 projects, 2 private to one discord RPG community and one public.
+
 
 <!--
 **Morrido241/Morrido241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
